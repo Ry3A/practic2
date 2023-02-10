@@ -18,6 +18,15 @@ public class Human {
         this.weight = weight;
     }
 
+    public int getAge() {
+        return age;
+    }
+
+    public char getSecondLetter(){
+        char letter = firstName.charAt(1);
+        return letter;
+    }
+
     @Override
     public String toString() {
         return "Human{" +
