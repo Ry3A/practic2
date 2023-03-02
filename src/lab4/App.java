@@ -85,10 +85,10 @@ public class App implements ExecutorService {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("Потом это");
+            System.out.println("Второй");
         });
 
-        executorService.execute(() -> System.out.println("Сначала это"));
+        executorService.execute(() -> System.out.println("Первый"));
         executorService.shutdown();
     }
 }
