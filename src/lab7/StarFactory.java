@@ -6,7 +6,6 @@ import java.util.Map;
 public class StarFactory {
     private final Map<SpectralType, Star> stars = new HashMap<>();
 
-    @SuppressWarnings("UnusedReturnValue")
     public Star createStar(SpectralType spectralType) {
         if (stars.containsKey(spectralType)) {
             return stars.get(spectralType);
