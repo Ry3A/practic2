@@ -5,56 +5,347 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="578c63b2-8d11-49fd-9c41-f333aa16213a" name="Changes" comment="9lab">
-      <change afterPath="$PROJECT_DIR$/src/lab9/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/gradle/wrapper/app-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/src/main/java/com/example/lab12/Filehasher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab13/src/main/java/com/example/lab13/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/8.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/build/classes/java/main/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/jars/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/jars/test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task14/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/repository/PostsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task15/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/java/com/example/task14/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task16/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/repository/PostFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/repository/PostFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/repository/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/repository/UserFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/java/com/example/task14/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task17/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/application.2023-0408.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/application.2023-0412.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/repository/PostFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/repository/PostFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/repository/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/repository/UserFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/java/com/example/task14/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task18-19/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/application.2023-0408.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/application.2023-0412.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/config/TimeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/repository/PostFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/repository/PostFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/repository/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/repository/UserFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/service/UserPostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/java/com/example/task14/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task20-21/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/application.2023-0408.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/application.2023-0410.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/backup/posts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/backup/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/config/TimeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/repository/PostFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/repository/PostFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/repository/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/repository/UserFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/service/BackupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/service/UserPostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/java/com/example/task14/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task22/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/application.2023-0408.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/application.2023-0410.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/application.2023-0411.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/application.2023-0412.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/backup/posts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/backup/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/Task14Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/config/TimeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/controller/PostsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/PostFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/PostFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/UserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/UserFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/service/BackupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/service/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/service/UserPostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/java/com/example/task14/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/test/java/com/example/task14/Task14ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/test/java/com/example/task14/service/PostServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23-24/src/test/java/com/example/task14/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/StarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/StarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/hs_err_pid162704.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/hs_err_pid162704.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/hs_err_pid167108.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/hs_err_pid167108.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/hs_err_pid171664.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/hs_err_pid171664.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/hs_err_pid177724.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/hs_err_pid177724.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/hs_err_pid181828.log" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/hs_err_pid181828.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/src/main/java/com/example/lab11/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/src/main/java/com/example/lab11/Lab11Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/src/main/java/com/example/lab12/Lab12Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12/src/test/java/com/example/lab11/Lab11ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab12/src/test/java/com/example/lab12/Lab11ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab13/src/main/java/com/example/lab11/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab13/src/main/java/com/example/lab11/Lab11Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab13/src/main/java/com/example/lab13/Lab13Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab13/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lab13/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab13/src/test/java/com/example/lab11/Lab11ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab13/src/test/java/com/example/lab13/Lab13ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab9/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab9/gradle/wrapper/app-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/src/task09/build.gradle">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/src/java-software-platforms-templates-master/task09/build.gradle">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lab3/App2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lab8/App.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LVUlW3O753jzKMkj43p517RvTB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/apl26/IdeaProjects/practic2/src/lab8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/apl26/IdeaProjects/practic2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="java-patterns-main.pw13.src.main.java.com.example.pw13" />
+      <recent name="java-patterns-main.pw11.src.main.java.com.example.pw11" />
       <recent name="lab7" />
       <recent name="lab6" />
       <recent name="lab5" />
@@ -66,104 +357,64 @@
       <recent name="C:\Users\apl26\IdeaProjects\practic2\src\lab9\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/pract9/build.gradle [exec] (1)">
-    <configuration name="C:/Users/apl26/IdeaProjects/practic2/src/java-software-platforms-templates-master/task09/build.gradle [copyJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/src/java-software-platforms-templates-master/task09/build.gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="copyJar" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+  <component name="RunManager" selected="Application.lab1.App">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="practic2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="C:/Users/apl26/IdeaProjects/practic2/src/java-software-platforms-templates-master/task09/build.gradle [runDocker]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/src/java-software-platforms-templates-master/task09/build.gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="runDocker" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="lab1.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.App" />
+      <module name="practic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="C:/Users/apl26/IdeaProjects/practic2/src/pract9/build.gradle [exec] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/src/pract9/build.gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="exec" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="lab7.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.App" />
+      <module name="practic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="C:/Users/apl26/IdeaProjects/practic2/src/pract9/build.gradle [exec]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/src/pract9/build.gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="exec" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="lab8.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.App" />
+      <module name="practic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="C:/Users/apl26/IdeaProjects/practic2/src/task09/build.gradle [removeImage]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="C:/Users/apl26/IdeaProjects/practic2/src/lab9/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/src/task09/build.gradle" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/lab9/build.gradle" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
-          <list>
-            <option value="removeImage" />
-          </list>
+          <list />
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
@@ -174,11 +425,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/pract9/build.gradle [exec] (1)" />
-        <item itemvalue="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/pract9/build.gradle [exec]" />
-        <item itemvalue="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/java-software-platforms-templates-master/task09/build.gradle [copyJar]" />
-        <item itemvalue="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/task09/build.gradle [removeImage]" />
-        <item itemvalue="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/java-software-platforms-templates-master/task09/build.gradle [runDocker]" />
+        <item itemvalue="Application.lab1.App" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Gradle.C:/Users/apl26/IdeaProjects/practic2/src/lab9/build.gradle" />
+        <item itemvalue="Application.lab8.App" />
+        <item itemvalue="Application.lab7.App" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +456,19 @@
       <workItem from="1678972536211" duration="604000" />
       <workItem from="1679003231467" duration="3474000" />
       <workItem from="1679006751286" duration="4000" />
-      <workItem from="1679047841131" duration="2401000" />
+      <workItem from="1679047841131" duration="3249000" />
+      <workItem from="1679579429512" duration="241000" />
+      <workItem from="1679580090981" duration="607000" />
+      <workItem from="1679580753305" duration="2045000" />
+      <workItem from="1679584485919" duration="21000" />
+      <workItem from="1680727343516" duration="647000" />
+      <workItem from="1680783361163" duration="290000" />
+      <workItem from="1680783821119" duration="151000" />
+      <workItem from="1683151715752" duration="3865000" />
+      <workItem from="1683203255980" duration="9000" />
+      <workItem from="1683204195053" duration="213000" />
+      <workItem from="1683204943969" duration="14000" />
+      <workItem from="1683213767098" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="1lab">
       <created>1675959574062</created>
@@ -270,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678376972402</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="9lab">
+      <created>1679050372029</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679050372029</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +558,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1lab" />
     <MESSAGE value="2lab" />
     <MESSAGE value="3lab" />
@@ -296,6 +567,7 @@
     <MESSAGE value="6lab" />
     <MESSAGE value="7lab" />
     <MESSAGE value="8lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="8lab" />
+    <MESSAGE value="9lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="9lab" />
   </component>
 </project>

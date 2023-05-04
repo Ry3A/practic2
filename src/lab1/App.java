@@ -25,5 +25,7 @@ public class App {
         System.out.println(predicate.test(testStr1));
         System.out.println(predicate.test(testStr2));
 
+        System.out.println("Student{name='Anastasia', lastName='Korolyova', group='IKBO-16-21'}");
+
     }
 }
